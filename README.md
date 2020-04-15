@@ -20,6 +20,6 @@ action dispatches action type
 
 In App.js reducer detects action.type and with switch case the state is modified.
 
-![Final Result](https://raw.githubusercontent.com/shubhamchepe/react-native-redux/master/src/Screenshot_1586899346.png)
+![Final Result](https://raw.githubusercontent.com/shubhamchepe/react-native-redux/master/src/resize-1586937349667043119Screenshot1586899346.png)
 
 
