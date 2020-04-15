@@ -20,5 +20,6 @@ action dispatches action type
 
 In App.js reducer detects action.type and with switch case the state is modified.
 
+![Final Result](https://drive.google.com/open?id=1w6BYrxETc0skyzORTN532Pf14ZLP1wcW)
 
 
